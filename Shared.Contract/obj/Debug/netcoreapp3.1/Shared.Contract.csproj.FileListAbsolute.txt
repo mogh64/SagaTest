@@ -1,0 +1,9 @@
+C:\Users\m.ghahremani\source\repos\SagaTest\Shared.Contract\bin\Debug\netcoreapp3.1\Shared.Contract.deps.json
+C:\Users\m.ghahremani\source\repos\SagaTest\Shared.Contract\bin\Debug\netcoreapp3.1\Shared.Contract.dll
+C:\Users\m.ghahremani\source\repos\SagaTest\Shared.Contract\bin\Debug\netcoreapp3.1\Shared.Contract.pdb
+C:\Users\m.ghahremani\source\repos\SagaTest\Shared.Contract\obj\Debug\netcoreapp3.1\Shared.Contract.csprojAssemblyReference.cache
+C:\Users\m.ghahremani\source\repos\SagaTest\Shared.Contract\obj\Debug\netcoreapp3.1\Shared.Contract.AssemblyInfoInputs.cache
+C:\Users\m.ghahremani\source\repos\SagaTest\Shared.Contract\obj\Debug\netcoreapp3.1\Shared.Contract.AssemblyInfo.cs
+C:\Users\m.ghahremani\source\repos\SagaTest\Shared.Contract\obj\Debug\netcoreapp3.1\Shared.Contract.csproj.CoreCompileInputs.cache
+C:\Users\m.ghahremani\source\repos\SagaTest\Shared.Contract\obj\Debug\netcoreapp3.1\Shared.Contract.dll
+C:\Users\m.ghahremani\source\repos\SagaTest\Shared.Contract\obj\Debug\netcoreapp3.1\Shared.Contract.pdb
